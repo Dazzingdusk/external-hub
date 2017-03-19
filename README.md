@@ -1,2 +1,2 @@
 # external-hub
-This is an external repoditory
+这是一个远程仓库，用以学习。
