@@ -1,3 +1,5 @@
-!#/bin/bash
+#!/bin/bash
 
-echo 'Hello'
+echo     'The git status is '
+echo     "`git status`"
+
