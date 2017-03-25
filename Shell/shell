@@ -1,5 +1,3 @@
 #!/bin/bash
-
-
 echo "Now is `date`"
 echo "welcome back! Smile"
