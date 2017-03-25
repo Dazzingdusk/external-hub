@@ -1,4 +1,5 @@
-!#/bin/bash
+#!/bin/bash
+
 
 echo "Now is `date`"
-echo  "welcome back! Smile"
+echo "welcome back! Smile"
